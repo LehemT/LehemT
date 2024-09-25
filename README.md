@@ -35,4 +35,6 @@ I'm a third-year Software Engineering student at Carleton University, currently 
 ### 🔥 My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LehemT&theme=radical&background=0f0f0f)](https://git.io/streak-stats)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->

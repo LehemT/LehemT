@@ -1,15 +1,16 @@
 ## Hi, I'm Lehem!👋🏽
-
+<!--
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRndGh1eHAybWJrcW81d3Vhd2QzcXp2cGtmY3B1Y292eWdhOTVkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nP1I08QRJC7wTo60dL/giphy.gif" width="300" height="300"/>
 </div>
 
 ### 💬 About me
+-->
 I'm a third-year Software Engineering student at Carleton University, currently exploring different streams within the field as I develop my skills in programming.
 
-👩🏽‍💻 I’m currently working on an interactive school organizer using Java's GUI Swing framework.
+👩🏽‍💻 I’m currently developing an interactive school organizer using Java's GUI Swing framework.
 
-🤖 I’m currently experimenting with machine learning frameworks like TensorFlow, Keras, and Scikit-learn.
+🤖 I’m also experimenting with machine learning frameworks like TensorFlow, Keras, and Scikit-learn.
 
 ✨ Fun fact - I used to be a huge Greek mythology enthusiast! One of my favorite Greek heroes is Perseus, known for his bravery. 
 

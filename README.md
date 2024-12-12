@@ -8,7 +8,7 @@
 -->
 I'm a third-year Software Engineering student at Carleton University, currently exploring different streams within the field as I develop my skills in programming.
 
-👩🏽‍💻 I’m currently developing an interactive school organizer using Java's GUI Swing framework.
+👩🏽‍💻 I’m currently developing an interactive implementation of Scrabble using Java's GUI Swing framework.
 
 🤖 I’m also experimenting with machine learning frameworks like TensorFlow, Keras, and Scikit-learn.
 
@@ -28,7 +28,9 @@ I'm a third-year Software Engineering student at Carleton University, currently 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="C" alt="C" width="43" height="43"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="43" height="43"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="43" height="43"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="43" height="43"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="43" height="43"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 <div>

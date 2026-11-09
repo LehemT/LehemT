@@ -35,8 +35,10 @@ I'm a third-year Software Engineering student at Carleton University, currently 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 <div>
 
+<!--
 ### 🔥 My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LehemT&theme=radical&background=0f0f0f)](https://git.io/streak-stats)
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

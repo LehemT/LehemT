@@ -16,7 +16,6 @@ I'm a fourth-year Software Engineering student at Carleton University with inter
 
 📧 Feel free to reach out via the contact info below if you'd like to discuss potential collaborations, opportunities, or just to connect!
 
-📧 [Email me](mailto:lehem.temesgen@gmail.com)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lehem-temesgen/">

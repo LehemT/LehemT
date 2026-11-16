@@ -1,4 +1,4 @@
-## Hi, I'm Lehem!👋🏽
+## Hi, I'm Lehem! 👋🏽
 <!--
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRndGh1eHAybWJrcW81d3Vhd2QzcXp2cGtmY3B1Y292eWdhOTVkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nP1I08QRJC7wTo60dL/giphy.gif" width="300" height="300"/>
@@ -6,13 +6,13 @@
 
 ### 💬 About me
 -->
-I'm a third-year Software Engineering student at Carleton University, currently exploring different streams within the field as I develop my skills in programming.
+I'm a fourth-year Software Engineering student at Carleton University with interests in cybersecurity, artificial intelligence, and software development. I'm continuing to explore these areas as I build my technical skills and gain hands-on experience.
 
-👩🏽‍💻 I’m currently developing an interactive implementation of Scrabble using Java's GUI Swing framework.
+👩🏽‍💻 I’m currently working on Neural Shield, my undergraduate capstone project, which focuses on evaluating the robustness of neural networks against adversarial attacks and exploring defense mechanisms.
 
-🤖 I’m also experimenting with machine learning frameworks like TensorFlow, Keras, and Scikit-learn.
+🤖 As part of Neural Shield, I've been developing a Multilayer Perceptron (MLP) using Python and PyTorch, and will be working on implementing Square Attack, a black-box adversarial attack.
 
-✨ Fun fact - I used to be a huge Greek mythology enthusiast! One of my favorite Greek heroes is Perseus, known for his bravery. 
+✨ Fun fact: I used to be a huge Greek mythology enthusiast! One of my favourite Greek heroes is Perseus, known for his bravery. 
 
 📧 Feel free to reach out via the contact info below if you'd like to discuss potential collaborations, opportunities, or just to connect!
 

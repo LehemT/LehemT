@@ -21,7 +21,8 @@ I'm a fourth-year Software Engineering student at Carleton University with inter
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="40" height="40"/>
   </a>
   <a href="mailto:lehem.temesgen@gmail.com">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Badge" width="43" height="43"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail Badge" width="43" height="43"/> 
+  </a>
 </div>
 
 ### Languages & Tools

@@ -16,6 +16,8 @@ I'm a fourth-year Software Engineering student at Carleton University with inter
 
 📧 Feel free to reach out via the contact info below if you'd like to discuss potential collaborations, opportunities, or just to connect!
 
+📧 [Email me](mailto:lehem.temesgen@gmail.com)
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lehem-temesgen/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Badge" width="40" height="40"/>
@@ -34,7 +36,7 @@ I'm a fourth-year Software Engineering student at Carleton University with inter
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="43" height="43"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="43" height="43"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-<div>
+</div>
 
 <!--
 ### 🔥 My Stats :
